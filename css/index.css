@@ -1,0 +1,154 @@
+:root {
+    --main-color: #F2EADF;
+    --link-color: #C29B65;
+    --section-bkg: #1B1B24;
+    --header-bkg: #414142;
+    --header-bis: #1a1a1b;
+    --header-tris: #303035;
+    --header-qris: #252531;
+    --red-color: #961717;
+    --normal-font: 'Economica', 'Rajdhani', 'Abel', 'Open Sans Condensed', 'Quicksand', 'Raleway', 'Saira Condensed';
+    --serif-font: 'DM Serif Text', 'Roboto Slab', 'Arapey', 'Brygada 1918', 'Domine', 'Faustina', 'Libre Baskerville';
+    --hand-font: 'Nothing You Could Do', 'Petit Formal Script', 'Amatic SC', 'Reenie Beanie', 'Parisienne', 'Mrs Saint Delafield';
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 20px;
+    background-color: transparent;
+    color: var(--main-color);
+    font-family: var(--normal-font);
+}
+
+body {
+    background-color: var(--section-bkg);
+}
+
+h1,
+.chirac1,
+.chirac2,
+.jacques {
+    font-size: 64px;
+    font-family: var(--serif-font);
+    letter-spacing: .5rem;
+    color: var(--main-color);
+}
+
+main {
+    min-width: 100vw;
+}
+
+
+/* Class */
+
+.titleSection {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100vh;
+    font-size: 64px;
+    font-family: var(--normal-font);
+    color: var(--link-color);
+    text-orientation: upright;
+    writing-mode: vertical-lr;
+    text-align: center;
+    margin-left: 30%;
+    border-left: 1px solid var(--main-color);
+}
+
+.mobile {
+    display: none;
+}
+
+.handfont {
+    font-family: var(--hand-font);
+    font-size: 18px;
+}
+
+.hoverline {
+    position: relative;
+}
+
+.hoverline::after {
+    position: absolute;
+    content: "";
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 1px;
+    background-color: var(--link-color);
+    transform: scale(0);
+    transform-origin: left;
+    transition: all .3s ease-in;
+}
+
+.hoverline:hover::after {
+    transform: scale(1);
+}
+
+.asideImg {
+    width: 60%;
+    position: absolute;
+    background: transparent;
+    bottom: 0;
+    right: 0;
+    z-index: -1;
+}
+
+
+/* ------------------ Header ------------------ */
+
+
+/* ------------------ HOME ------------------ */
+
+.home {
+    height: 100vh;
+    width: 100vw;
+}
+
+.home main {
+    padding-top: 10vh;
+    padding-left: 25vw;
+}
+
+.home main article * {
+    letter-spacing: .5rem;
+    font-family: var(--serif-font);
+}
+
+.home article div.overflowH {
+    margin: 25px 0;
+}
+
+.overflowH {
+    overflow: hidden;
+}
+
+.home h1 {
+    display: flex;
+}
+
+.jacques {
+    margin: 0 20px;
+}
+
+.home article p {
+    font-size: 32px;
+}
+
+span.pomme {
+    font-size: 36px;
+    color: var(--red-color);
+    z-index: -1;
+}
+
+.home img {
+    max-width: 100%;
+}
+
+.credits {
+    margin: 50px 0;
+    text-align: center;
+}
