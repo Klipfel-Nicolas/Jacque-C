@@ -14,8 +14,11 @@ Venez ABSOLUMENT tester le quiz sur les répliques cultes !
 ## Technos et techniques
 
 Ce projet est monté en php, CSS et javascript natif.
+
 Le quiz est en orienté objet Javascript.
+
 La librairie Gsap est utiliser pour les aparitions des éléments.
 
-![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
