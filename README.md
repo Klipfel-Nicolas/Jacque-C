@@ -13,7 +13,7 @@ Venez ABSOLUMENT tester le quiz sur les répliques cultes !
 
 Quiz             |  Resultat
 :-------------------------:|:-------------------------:
-![](https://github.com/Klipfel-Nicolas/Jacque-C/blob/master/img/questionReadmeMini.png) | ![](https://github.com/Klipfel-Nicolas/Jacque-C/blob/master/img/resultsReadmeMini.png)
+![](https://github.com/Klipfel-Nicolas/Jacque-C/blob/master/img/resultsReadmeMini.png) | ![](https://github.com/Klipfel-Nicolas/Jacque-C/blob/master/img/questionReadmeMini.png)
 
 ## Technos et techniques
 
