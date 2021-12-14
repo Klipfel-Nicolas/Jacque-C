@@ -11,7 +11,7 @@ Ce petit projet essaye de dépeindre le tableau Jacques Chirac au travers de ses
 
 Venez ABSOLUMENT tester le quiz sur les répliques cultes !
 
-![alt text](https://github.com/Klipfel-Nicolas/Jacque-C/blob/master/img/questionReadme.png?raw=true)![alt text](https://github.com/Klipfel-Nicolas/Jacque-C/blob/master/img/resultsReadme.png?raw=true)
+![alt text](https://github.com/Klipfel-Nicolas/Jacque-C/blob/master/img/questionReadme.png?raw=false)![alt text](https://github.com/Klipfel-Nicolas/Jacque-C/blob/master/img/resultsReadme.png?raw=false)
 
 ## Technos et techniques
 
