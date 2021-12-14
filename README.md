@@ -1,6 +1,6 @@
 # Jacque C
 
-![Cover]()
+![Cover](https://github.com/Klipfel-Nicolas/Jacque-C/blob/master/img/coverReadme.png)
 
 ## Description
 
